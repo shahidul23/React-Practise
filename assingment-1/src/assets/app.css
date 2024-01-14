@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: gray;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    background-color: black;
+    box-shadow: 2px 4px 4px gray;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 405px;
+    display: inline-block;
+}
+.image{
+    height: 280px;
+    width: 380px;
+    align-items: center;
+    padding: 10px;
+}
+.cardTitle{
+    text-align: center;
+    color: rgb(250, 248, 244);
+    text-justify: auto;
+    padding-bottom: 5px;
+}
+.cardPrice{
+    text-align: left;
+    color: rgb(241, 214, 58);
+    padding-bottom: 5px;
+}
+.cardDesc{
+    color: white;
+   text-align: justify;
+   padding-bottom: 5px;
+}
+.button{
+    color: wheat;
+    text-size-adjust: 15px;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+}
