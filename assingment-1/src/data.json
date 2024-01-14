@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "image":"https://cdn.mobilemaya.com/3cRu.jpg",
+        "title":"Samsung Galaxy A32 8GB/128GB - Price in Bangladesh",
+        "price":"25499 taka in Bangladesh",
+        "reating":"8.5/10",
+        "desc":"Samsung Galaxy A32 ; Resolution, 1080 x 2400 pixels, 20:9 ratio (~411 ppi density) ; Protection, Corning Gorilla Glass 5 ; OS, Android 11, upgradable to Android 13"
+    },
+    {
+        "id":"2",
+        "image":"https://cdn.mobilemaya.com/3gpa.jpg",
+        "title":"Xiaomi Redmi Note 11 6GB+128GB - Price in Bangladesh",
+        "price":"22499 taka in Bangladesh",
+        "reating":"7.5/10",
+        "desc":"Xiaomi Redmi Note 11 Android smartphone. Announced Jan 2022. Features 6.43″ display, Snapdragon 680 4G chipset, 5000 mAh battery, 128 GB storage"
+    },
+    {
+        "id":"3",
+        "image":"https://cdn.mobilemaya.com/3gaD.png",
+        "title":"Realme Narzo 50i 4GB/64GB - Price in Bangladesh",
+        "price":"10990 taka in Bangladesh",
+        "reating":"9.5/10",
+        "desc":"realme narzo 50i in Bangladesh is equipped with 5000mAh Massive Battery and 16.5cm (6.5) Large Display. Learn more about features and pricing"
+    },
+    {
+        "id":"4",
+        "image":"https://cdn.mobilemaya.com/3h3x.jpg",
+        "title":"Apple iPhone 14 Pro Max 6GB/256GB - Price in Bangladesh",
+        "price":"219699 taka in Bangladesh",
+        "reating":"9.5/10",
+        "desc":"iPhone 14 Pro and 14 Pro Max. Dynamic Island. Crash Detection. A 48MP camera for up to 4x the resolution. A16 Bionic chip. Four colors."
+    },
+    {
+        "id":"5",
+        "image":"https://cdn.mobilemaya.com/3fIp.jpg",
+        "title":"Motorola Moto G40 Fusion 6GB/128GB - Price in Bangladesh",
+        "price":"23171 taka in Bangladesh",
+        "reating":"6.5/10",
+        "desc":"Motorola Moto G40 Fusion comes with 6.8 inches Full HD+ screen. It has a Full-View punch-hole design. The back camera is of triple 64+8+2 MP with LED flash"
+    },
+    {
+        "id":"6",
+        "image":"https://cdn.mobilemaya.com/3h7z.jpg",
+        "title":"Symphony Z47 4GB/64GB - Price in Bangladesh",
+        "price":"11499 taka in Bangladesh",
+        "reating":"7.5/10",
+        "desc":"Symphony Z47 price in Bangladesh starts from BDT 11,499. Symphony Z47 internal storage base variant of 4 GB Ram, 64 GB Internal Memory (ROM)"
+    }
+]
