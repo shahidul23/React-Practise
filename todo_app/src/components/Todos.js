@@ -5,7 +5,7 @@ const Todos = (props) => {
   const {todos} = props;
   return (
     <div>
-        <h1>Todos Components</h1>
+        {/* <h1>Todos Components</h1> */}
       {todos.map((todo,index) =>(
         <Todo key={index} todo={todo}/>
       ))}
