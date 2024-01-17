@@ -1,4 +1,4 @@
-import Home from "./components/Home";
+import Home from "./components/Todos_app/Home";
 
 function App() {
   return (
