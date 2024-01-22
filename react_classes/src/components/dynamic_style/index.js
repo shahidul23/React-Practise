@@ -16,6 +16,7 @@ const Index = () => {
     setName(e.target.value);
   }
 // style={{color: valideInput ? "red" : "green"}}
+//className={`${valideInput ? "valide" : "invalide"}`}
   return (
     <div>
       <input 
@@ -24,7 +25,7 @@ const Index = () => {
       value={name} 
       onChange={handleChange} 
       
-      className={`${valideInput ? "valide" : "invalide"}`}
+      className={`${valideInput && "valide"}`}
       />
     </div>
   )
